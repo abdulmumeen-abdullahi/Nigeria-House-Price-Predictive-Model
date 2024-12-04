@@ -1,6 +1,6 @@
 # Nigeria House Price Predictive Model
 
-## Alternative Link to the Model Code 
+### Alternative Link to the Model Code:
 [Nigeria House Price Predictive Model](https://nbviewer.org/github/abdulmumeen-abdullahi/Nigeria-House-Price-Predictive-Model/blob/main/Nigeria%20House%20Price%20Predictive%20Model.ipynb)
 
 ## Overview of the Problem
