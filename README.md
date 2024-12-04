@@ -1,4 +1,8 @@
 # Nigeria House Price Predictive Model
+
+## Alternative Link to the Model Code 
+[Nigeria House Price Predictive Model](https://nbviewer.org/github/abdulmumeen-abdullahi/Nigeria-House-Price-Predictive-Model/blob/main/Nigeria%20House%20Price%20Predictive%20Model.ipynb)
+
 ## Overview of the Problem
 
 The rapid growth of the luxury real estate market in Nigeria has created significant challenges for realtors in determining the right pricing for houses. Various factors such as house type, location (state), number of bedrooms, bathrooms, toilets, and parking spaces play a crucial role in shaping the house's value. Mispricing properties can result in lost revenue or decreased sales.
