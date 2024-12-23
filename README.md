@@ -29,6 +29,9 @@ o	The dataset was filtered to include houses with a price between 10 and 300 mil
 
 ### 2.	Exploratory Data Analysis (EDA) <br/>
 o	A correlation matrix was computed to analyze relationships between the numerical features and the target variable (price_millions). <br/>
+
+![download](https://github.com/user-attachments/assets/802edbaa-9aba-4a7f-91d4-1ad127d48a94)
+
 o	A heatmap was generated to visualize these correlations, with bedrooms having the strongest correlation with price (0.44), followed by toilets (0.39), bathrooms (0.35), and parking spaces (0.12).
 
 ### 3.	Model Training <br/>
@@ -43,6 +46,8 @@ Several machine learning models were trained and evaluated, including: <br/>
 	Decision Tree Regressor. <br/>
 	Hyperparameter tuning was applied, and the MAE was calculated for each model. The Random Forest Regressor achieved the lowest MAE, outperforming other models with an error of 38.1 Million NGN.
 
+![download](https://github.com/user-attachments/assets/3495c24c-fa6d-4a29-a9b7-72ac302f4b30)
+
 ### 5.	Feature Importance <br/>
 •	Extracted and visualized the top 5 features using a bar chart. <br/>
 •	Insights: bathrooms emerged as the most critical predictor.
@@ -50,6 +55,8 @@ Several machine learning models were trained and evaluated, including: <br/>
 ### 6.	Interactive Dashboard <br/>
 1.	An interactive dashboard was created using ipywidgets, allowing users to input various house attributes (e.g., apartment type, state, number of bedrooms, etc.) through sliders and dropdown menus. <br/>
 2.	The predict_price function was used to return the predicted price based on user inputs, offering a user-friendly interface to explore the model’s predictions.
+
+![Nigeria House Price Predictive Model](https://github.com/user-attachments/assets/c749c965-b94d-4122-b45a-6eb3404fdcab)
 
 ## Results <br/>
 •	Benchmark (Baseline) Model: The baseline model, which predicts the mean value of the target variable, had an MAE of 50.23 Million NGN. <br/>
